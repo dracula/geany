@@ -2,7 +2,7 @@
 
 > A dark theme for [Geany](https://www.geany.org/).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/sublime.png)
+![Screenshot](https://github.com/sergey27564/template/blob/master/GeanyDracula.png)
 
 ## Install
 
